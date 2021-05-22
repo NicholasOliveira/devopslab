@@ -1,4 +1,4 @@
-# devopslab
+# Devops Lab
 
 [![Build Status](https://travis-ci.com/NicholasOliveira/devopslab.svg?branch=master)](https://travis-ci.com/NicholasOliveira/devopslab.svg?branch=master)
 

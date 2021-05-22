@@ -1,6 +1,6 @@
 # devopslab
 
-[https://travis-ci.com/NicholasOliveira/devopslab.svg?branch=master](https://travis-ci.com/NicholasOliveira/devopslab.svg?branch=master)
+[![Build Status](https://travis-ci.com/NicholasOliveira/devopslab.svg?branch=master)](https://travis-ci.com/NicholasOliveira/devopslab.svg?branch=master)
 
 
 https://devopslabimpacta.herokuapp.com/
